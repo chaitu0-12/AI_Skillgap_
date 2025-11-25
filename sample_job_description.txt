@@ -1,0 +1,39 @@
+Senior Data Scientist
+Tech Innovations Corp.
+
+Job Description:
+We are seeking a Senior Data Scientist to join our dynamic team. The ideal candidate will have extensive experience in machine learning, statistical analysis, and big data technologies. You will be responsible for designing and implementing advanced analytics solutions to drive business decisions.
+
+Responsibilities:
+- Develop and deploy machine learning models for predictive analytics
+- Analyze large datasets to identify trends and insights
+- Collaborate with engineering teams to implement data pipelines
+- Create data visualizations and reports for stakeholders
+- Stay current with latest developments in AI/ML research
+- Mentor junior data scientists and analysts
+
+Required Skills:
+- Advanced degree (Master's or PhD) in Computer Science, Statistics, Mathematics, or related field
+- 5+ years of experience in data science or machine learning roles
+- Proficiency in Python and R for statistical analysis
+- Experience with machine learning frameworks (TensorFlow, PyTorch, Scikit-learn)
+- Strong knowledge of SQL and NoSQL databases
+- Experience with big data technologies (Spark, Hadoop)
+- Expertise in data visualization tools (Tableau, Power BI)
+- Solid understanding of statistical modeling and hypothesis testing
+- Experience with cloud platforms (AWS, GCP, Azure)
+- Strong communication skills to present findings to non-technical stakeholders
+
+Preferred Skills:
+- Experience with natural language processing (NLP)
+- Knowledge of deep learning architectures
+- Familiarity with DevOps practices and CI/CD pipelines
+- Experience with containerization technologies (Docker, Kubernetes)
+- Leadership experience in managing data science projects
+
+Benefits:
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- Flexible working hours and remote work options
+- Professional development budget for conferences and courses
+- Generous paid time off and parental leave
